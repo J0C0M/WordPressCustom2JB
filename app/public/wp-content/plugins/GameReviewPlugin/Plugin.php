@@ -7,3 +7,8 @@
  * Requires at least: 6.0
  * Requires PHP: 7.4
  */
+
+// Stop if this file is opened directly instead of through WordPress
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
